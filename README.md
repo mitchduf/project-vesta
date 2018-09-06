@@ -1,4 +1,4 @@
-# project-vesta
+# Project Vesta
 
 A multiplayer deathmatch FPS made with Unity.
 Scripts written are contained in Assets/Scripts/.
